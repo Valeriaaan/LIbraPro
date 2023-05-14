@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LibraPro</string>
+    <string name="log_in">Log_in</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="button">Button</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="list1">
+        <item>"Select Book Category"</item>
+        <item>"CSE"</item>
+        <item>"ECE"</item>
+        <item>"Magazine"</item>
+        <item>"Novel"</item>
+        <item>"Mathematics"</item>
+        <item>"GATE"</item>
+        <item>"Business"</item>
+        <item>"Others"</item>
+    </string-array>
+</resources>

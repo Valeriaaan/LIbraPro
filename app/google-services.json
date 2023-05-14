@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372482529014",
+    "project_id": "log-in-register-e7b22",
+    "storage_bucket": "log-in-register-e7b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372482529014:android:aacb4b5e85531bd1defed7",
+        "android_client_info": {
+          "package_name": "com.example.log_in_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372482529014-a7b1be0m8ctsm514lrm1eults0le41n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMwpggXayH7KG2bPYOq8sEHf-RXWbgU4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372482529014-a7b1be0m8ctsm514lrm1eults0le41n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
